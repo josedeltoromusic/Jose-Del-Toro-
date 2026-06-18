@@ -1,0 +1,6 @@
+{
+  "name": "Jose Del Toro",
+  "description": "The personal website and creative archive of Jose Del Toro, songwriter, guitarist, and poet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
